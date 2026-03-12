@@ -72,15 +72,6 @@ Computer Science student exploring data science, software development, and moder
 
 ---
 
-## 🎓 Education
-
-| Year | Institution | Qualification |
-|---|---|---|
-| 2023–2027 | Amrita Vishwa Vidyapeetham | B.Tech — CSE · CGPA: 5.84 |
-| Class XII | Tirumala Junior College | Intermediate · 95.3% |
-| Class X | Sri Prakash Synergy School | Secondary School · 89% |
-
----
 
 ## 🌐 Connect
 
