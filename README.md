@@ -76,7 +76,7 @@ Computer Science student exploring data science, software development, and moder
 ## 🌐 Connect
 
 📧 &nbsp;**Email** &nbsp;— avinashdhanisetty@gmail.com  
-💼 &nbsp;**LinkedIn** — [linkedin.com/in/jnana-avinash-dhanisetty](https://linkedin.com/in/jnana-avinash-dhanisetty)  
+💼 &nbsp;**LinkedIn** — [linkedin.com/in/jnana-avinash-dhanisetty](www.linkedin.com/in/dhanisettyavinash)  
 🐙 &nbsp;**GitHub** — [github.com/aviizzz](https://github.com/aviizzz)
 
 ---
