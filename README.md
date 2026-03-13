@@ -4,10 +4,6 @@
 
 ### Computer Science Student | Data Science Enthusiast
 
-
-
-
-
 <table align="center">
 <tr>
 <td>
@@ -36,7 +32,7 @@
 
 ## About
 
-Computer Science undergraduate with an interest in building practical and efficient software solutions. I am focused on strengthening my foundations in programming, data-driven technologies, and modern software development practices. My academic work and personal projects emphasize problem solving, analytical thinking, and developing systems that transform data into meaningful insights.
+Computer Science undergraduate with a strong interest in building practical and efficient software solutions. I focus on strengthening my foundations in programming, data-driven technologies, and modern software development practices. My academic work and projects emphasize analytical thinking, problem solving, and developing systems that transform data into meaningful insights.
 
 I aim to continuously expand my technical expertise while contributing to projects that combine software engineering principles with real-world applications.
 
@@ -50,16 +46,7 @@ I aim to continuously expand my technical expertise while contributing to projec
 
 ---
 
-##  Areas of Interest
-
-![Data Science](https://img.shields.io/badge/Data%20Science-1f3a5f?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2f2f2f?style=flat-square)
-![Software Development](https://img.shields.io/badge/Software%20Development-1f3a5f?style=flat-square)
-![Web Applications](https://img.shields.io/badge/Web%20Applications-2f2f2f?style=flat-square)
-
----
-
-##  Technical Stack
+## Technical Stack
 
 ### Languages
 
@@ -85,18 +72,22 @@ I aim to continuously expand my technical expertise while contributing to projec
 
 ---
 
-##  GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviizzz&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aviizzz&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviizzz&layout=compact&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviizzz&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=aviizzz&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to internships · collaborations · research opportunities</sub>
+<sub>Open to internships, collaborations, and research opportunities</sub>
 </div>
